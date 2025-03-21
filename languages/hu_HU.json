@@ -64,5 +64,6 @@
     "setup_admin_user": "Admin felhasználónév",
     "setup_admin_pass": "Admin jelszó",
     "setup_submit": "Telepítés",
-    "setup_error": "Minden mező kitöltése kötelező!"
+    "setup_error": "Minden mező kitöltése kötelező!",
+    "file_info": "png,jpeg,webp, max 2MB"
 }
