@@ -64,5 +64,6 @@
     "setup_admin_user": "Admin-Benutzername",
     "setup_admin_pass": "Admin-Passwort",
     "setup_submit": "Installieren",
-    "setup_error": "Alle Felder sind erforderlich!"
+    "setup_error": "Alle Felder sind erforderlich!",
+    "file_info": "png, jpeg, webp, max. 2 MB"
 }
