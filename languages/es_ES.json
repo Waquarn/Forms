@@ -64,5 +64,6 @@
     "setup_admin_user": "Nombre de usuario del administrador",
     "setup_admin_pass": "Contraseña del administrador",
     "setup_submit": "Instalar",
-    "setup_error": "¡Todos los campos son obligatorios!"
+    "setup_error": "¡Todos los campos son obligatorios!",
+    "file_info": "png, jpeg, webp, máximo 2 MB"
 }
